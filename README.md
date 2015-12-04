@@ -5,6 +5,6 @@
 
 ¿Dudas? [Abre un issue](https://github.com/nodeschool/merida/issues).
 
-## Otros grupos y eventos para aprender en DF
+## Otros grupos y eventos para aprender en Merida
 
 - Proximamente
